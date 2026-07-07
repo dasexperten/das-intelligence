@@ -1,0 +1,25 @@
+name: brand-strategy-expert
+title: Brand Strategy Expert
+version: 0.1.0
+status: draft
+quality_level: core
+category: marketing
+subcategory: brand-strategy
+compatible_with:
+  - claude
+  - chatgpt
+  - cursor
+  - vscode
+  - opencode
+primary_outputs:
+  - brand_strategy_brief
+  - brand_audit_scorecard
+  - brand_pillar_system
+  - channel_translation_matrix
+related_skills:
+  - brand-positioning-expert
+  - value-proposition-architect
+  - customer-research-specialist
+  - competitive-intelligence-analyst
+maintainer: Das Experten
+last_updated: 2026-07-07
