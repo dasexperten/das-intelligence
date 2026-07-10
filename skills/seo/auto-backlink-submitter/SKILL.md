@@ -122,6 +122,18 @@ type (beauty/cosmetics → Open Beauty Facts). Verify: `GET /api/v2/product/<EAN
 - **Generic barcode DBs** (UPCitemdb / upcdatabase.org) — `yes-with-account`, API-key. Product record
   with a brand URL; lower authority, mark link type on verify.
 
+**Open-science / DOI repositories (highest legitimacy for a science-based brand)** — `yes-with-account`,
+OAuth/API token, **no captcha on the API**, no editorial review on most → instant. Deposit a technical
+note, dataset, protocol, or figure set (real data only) and the publish step mints a **DataCite/Crossref
+DOI + permanent public page**; the metadata's related-identifier / references field carries an outbound
+link to the brand site. Indexed by Google Scholar / OpenAIRE / Crossref → strong, durable citations:
+- **Zenodo** (CERN/OpenAIRE) — `POST /api/deposit/depositions` → bucket upload → `actions/publish`.
+- **OSF** — `api.osf.io/v2` project + files; **Figshare** — `/v2/account/articles`; **protocols.io**
+  — publish a method (ideal for the enzyme-cascade / probiotic-paste protocol); **Harvard Dataverse**
+  — `X-Dataverse-key`, dataset + Related Publication link.
+- **ORCID** — a real R&D-author record; `researcher-urls` via 3-legged OAuth `/person/update`.
+The one manual step is account signup (captcha) + issuing the token; everything after is scripted.
+
 **Indexing / feed submission (no backlink, but accelerates crawl & AI-search inclusion — do these
 too, they're pure `yes-now`):**
 - **IndexNow** (`api.indexnow.org` / `bing.com/indexnow`, covers Bing · Yandex · Seznam · Naver) —
