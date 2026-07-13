@@ -13,7 +13,8 @@
 | [ubersuggest.md](./ubersuggest.md) | How to pull & refresh metrics (MCP tools, ERP wire) |
 | [geo-ai-visibility.md](./geo-ai-visibility.md) | GEO / AI search / AI crawlers status |
 | [erp-wire.md](./erp-wire.md) | Das Operator `/api/seo/site-metrics` contract |
-| [sources.md](./sources.md) | GSC, GA4, Clarity, CF AI Crawl Control wiring status |
+| [sources.md](./sources.md) | GSC, GA4, Clarity, Metrika, CF wiring status |
+| [dig-guide.md](./dig-guide.md) | What interesting data each tracker surfaces (no secrets) |
 
 ## Skills to run against this domain
 
