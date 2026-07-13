@@ -31,6 +31,14 @@ skill-name/
 14. `seo-content-brief-builder`
 15. `site-architecture-planner`
 16. `seo-performance-monitor`
+17. `ubersuggest-site-pulse` — DA / backlinks / organic traffic pull + ERP refresh
+18. `geo-ai-visibility` — GEO / AI answer engines / crawler honesty
+
+## Domain dossiers (live metrics)
+
+Canonical numbers and source status for brand domains:
+
+- `references/domains/dasexperten.com/` — site metrics, Ubersuggest protocol, GEO, ERP wire
 
 ## Usage Logic
 
@@ -58,9 +66,14 @@ Use page-level optimization skills when improving existing pages:
 Use specialized growth skills when the SEO system needs scale or localization:
 
 - `ai-seo-optimizer`
+- `geo-ai-visibility`
 - `programmatic-seo-planner`
 - `multilingual-seo-localizer`
 - `ecommerce-seo-expert`
+
+Use domain pulse skills for authority metrics:
+
+- `ubersuggest-site-pulse` (then push ERP + update dossier)
 
 ## Design and Mobile Notes
 

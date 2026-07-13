@@ -81,9 +81,15 @@ Location: `skills/seo/`
 
 Index: `skills/seo/README.md`
 
-Completed skills: 16
+Completed skills: 18
 
-Covers SEO audits, technical SEO, keyword research, content planning, on-page SEO, metadata, schema, AI SEO, programmatic SEO, multilingual SEO, ecommerce SEO, mobile SEO, indexation, content briefs, site architecture, and SEO reporting.
+Covers SEO audits, technical SEO, keyword research, content planning, on-page SEO, metadata, schema, AI SEO, GEO / AI visibility, programmatic SEO, multilingual SEO, ecommerce SEO, mobile SEO, indexation, content briefs, site architecture, SEO reporting, and Ubersuggest site pulse (DA / backlinks / organic traffic → ERP).
+
+### Domain dossiers
+
+Location: `references/domains/`
+
+- `dasexperten.com/` — live Ubersuggest snapshot, GEO status, ERP `/api/seo/site-metrics` wire, measurement sources.
 
 ---
 
@@ -292,7 +298,7 @@ Apply the uploaded design and mobile-friendly rules whenever analytics work incl
 
 - Brand, offer, GTM, pricing, launch, Google Ads → `skills/marketing/`
 - Website pages, UX, CRO, checkout, mobile → `skills/website/`
-- Organic search, metadata, schema, AI search → `skills/seo/`
+- Organic search, metadata, schema, AI search, GEO, Ubersuggest DA/backlinks → `skills/seo/` (+ `references/domains/`)
 - Posts, videos, UGC, email, articles, copy → `skills/content/`
 - WB, Ozon, Amazon, TikTok Shop, marketplace cards or ads → `skills/marketplaces/`
 - Distributors, export, retail buyers, terms, quotes → `skills/sales/`
@@ -346,7 +352,7 @@ Completed foundations:
 - Marketing core: 22
 - Google Ads: 9
 - Website: 15
-- SEO: 16
+- SEO: 18
 - Content: 12
 - Marketplace shared: 15
 - Marketplace deep packs: 16
