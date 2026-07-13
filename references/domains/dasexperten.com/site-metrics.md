@@ -63,5 +63,6 @@ Most commercial queries sit positions 50–100 — growth lever is content + int
 | Date | DA | Backlinks | Ref domains | Organic | Source |
 |---|---|---|---|---|---|
 | 2026-07-13 | 11 | 1093 | 328 | 124 | Ubersuggest MCP (domain_overview + backlinks_overview) |
+| 2026-07-13 | 11 | 1093 | 328 | 124 | Ubersuggest MCP re-pulse → POST dasoperator-api `/api/seo/site-metrics` OK |
 
 Append a row on every refresh. Never overwrite old rows — append only.
