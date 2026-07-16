@@ -64,5 +64,6 @@ Most commercial queries sit positions 50–100 — growth lever is content + int
 |---|---|---|---|---|---|
 | 2026-07-13 | 11 | 1093 | 328 | 124 | Ubersuggest MCP (domain_overview + backlinks_overview) |
 | 2026-07-13 | 11 | 1093 | 328 | 124 | Ubersuggest MCP re-pulse → POST dasoperator-api `/api/seo/site-metrics` OK |
+| 2026-07-16 | pending | pending | pending | pending | GEO-WEEK Day-0 pulse attempted; Ubersuggest MCP blocked (interactive approval unavailable in session) — last-known-good = 2026-07-13 row; re-pulse next agent session |
 
 Append a row on every refresh. Never overwrite old rows — append only.
