@@ -65,5 +65,8 @@ Most commercial queries sit positions 50–100 — growth lever is content + int
 | 2026-07-13 | 11 | 1093 | 328 | 124 | Ubersuggest MCP (domain_overview + backlinks_overview) |
 | 2026-07-13 | 11 | 1093 | 328 | 124 | Ubersuggest MCP re-pulse → POST dasoperator-api `/api/seo/site-metrics` OK |
 | 2026-07-16 | pending | pending | pending | pending | GEO-WEEK Day-0 pulse attempted; Ubersuggest MCP blocked (interactive approval unavailable in session) — last-known-good = 2026-07-13 row; re-pulse next agent session |
+| 2026-07-16 | 11 | 1091 | 327 | 124 | Ubersuggest MCP domain_overview (real, GEO-week session). DA flat vs 07-13; BL 1093→1091, RD 328→327 (minor natural drift). follow 844 / nofollow 247. organic KW 17. ERP POST pending (dasoperator base URL/auth not in this session) |
 
 Append a row on every refresh. Never overwrite old rows — append only.
+
+**GEO-WEEK note (2026-07-16):** DA is a lagging Ubersuggest metric — no movement expected within days of the sprint. Week measures inputs (RD earned via outreach, citations, entity, internal links, schema). Backlinks/RD dipped 2/1 (natural churn), not a concern. Real +DA, if any, lands on Ubersuggest's own refresh cadence (weeks).
