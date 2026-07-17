@@ -69,4 +69,6 @@ Most commercial queries sit positions 50–100 — growth lever is content + int
 
 Append a row on every refresh. Never overwrite old rows — append only.
 
+| 2026-07-17 | 11 | 1091 | 327 | 124 | Ubersuggest MCP domain_overview + backlinks_overview (real). Flat vs 07-16 (weekly refresh cadence). nofollow 247. |
+
 **GEO-WEEK note (2026-07-16):** DA is a lagging Ubersuggest metric — no movement expected within days of the sprint. Week measures inputs (RD earned via outreach, citations, entity, internal links, schema). Backlinks/RD dipped 2/1 (natural churn), not a concern. Real +DA, if any, lands on Ubersuggest's own refresh cadence (weeks).
