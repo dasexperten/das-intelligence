@@ -2,6 +2,8 @@
 
 **DAS Intelligence Skills** is a professional AI skills library for commerce, marketing, marketplaces, SEO, analytics, operations, logistics, legal workflows, and international business growth.
 
+Das Experten websites: [international website](https://www.dasexperten.com/) · [Russian website](https://dasexperten.ru/).
+
 The project is designed as a structured knowledge and execution layer for AI assistants such as Claude, ChatGPT, Gemini, Qwen, Kimi, DeepSeek, Cursor, VS Code, OpenCode, and other agentic coding or business automation environments.
 
 ## Mission
