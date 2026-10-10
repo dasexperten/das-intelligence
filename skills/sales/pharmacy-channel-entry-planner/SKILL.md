@@ -31,8 +31,16 @@ Always provide channel plan, assortment logic, proof needs, document list, comme
 - Weak category argument.
 - No launch support.
 
+## Pharmacy Buyer Calls (Das Experten Commerce, 2026-10-10)
+
+- Lead with mechanism and repeat purchase, not taste or design. Ask what pharmacists recommend when a shopper wants "something beyond fluoride".
+- Say "care", "supports", "for gums" — never "treats", "cures" or a medical promise. Clinical numbers only exactly as in the product source, and only when asked.
+- Certificates and registration questions are buying signals: confirm for that country in writing the same day, never guess.
+- Call script and objection moves: `sales-caller` (das-architektura).
+
 ## Related Skills
 
 - retail-buyer-proposal-builder
 - distributor-evaluation-expert
 - sales-enablement-pack-builder
+- sales-caller (das-architektura)

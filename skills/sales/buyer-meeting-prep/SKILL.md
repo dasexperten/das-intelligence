@@ -31,8 +31,16 @@ Always provide meeting brief, agenda, talking points, questions, risks, and next
 - Too much product detail.
 - No follow-up action.
 
+## Before-Dial Card for Calls (Das Experten Commerce, 2026-10-10)
+
+- Four lines about the person, not the company: what they fear losing · how they want to look inside their company · what they say out loud · what blocks the yes.
+- One trigger: why this company this month. No trigger — admit the call is cold and ask for 30 seconds.
+- Set the agenda in the first minute and get a "yes"; ask 3–4 needs questions and confirm the summary before offering anything.
+- Every call ends in one of three results: agreement, a dated callback we make, or a clear refusal. Full call craft: `sales-caller` (das-architektura).
+
 ## Related Skills
 
 - b2b-presentation-builder
 - trade-terms-negotiator
 - b2b-follow-up-manager
+- sales-caller (das-architektura)

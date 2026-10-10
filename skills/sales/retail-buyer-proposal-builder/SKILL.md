@@ -31,8 +31,16 @@ Always provide proposal summary, assortment logic, category argument, proof poin
 - No commercial summary.
 - No launch support.
 
+## Objection-Led Blocks (Das Experten Commerce, 2026-10-10)
+
+- Every proposal block names the buyer objection it closes (sell-through, margin, shelf space, documents, launch support). A block that closes none is cut.
+- Pre-empt the most common objection inside the proposal instead of waiting for it.
+- Price only from the approved price matrix; exclusivity, deferral and consignment are never offered in the proposal — they go to finance, legal and the owner.
+- The proposal sells a shelf position — which row, next to what, compared with what — not the cheapest unit.
+
 ## Related Skills
 
 - b2b-presentation-builder
 - sales-enablement-pack-builder
 - pharmacy-channel-entry-planner
+- sales-caller (das-architektura)
