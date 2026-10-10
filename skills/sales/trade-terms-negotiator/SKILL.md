@@ -35,7 +35,7 @@ Always provide term summary, fixed terms, flexible terms, risk notes, counter op
 
 - Price, deferral, consignment, credit, exclusivity, territory and minimum volume are never agreed on a call. Say who decides and return with a written answer by a named date.
 - Objection algorithm: listen → join the concern (never confirm the claim) → one question → short argument from a true fact → end with a question.
-- No discount as a closing lever, no price-matching, no invented deadlines. Urgency only when physically true (sailing date, open territory, a promo date).
+- No discount as a closing lever, no price-matching. Urgency from real stock and real dates: say stock is running low only when it is (checked the same day); "this item often sells out because demand is high" when that is the company's record; sailing date, open territory, a promo date.
 - Recognise the same persuasion levers when the buyer uses them ("everyone gives us 90 days", "decide by Friday") — note them, do not react.
 
 ## Related Skills
